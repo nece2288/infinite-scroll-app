@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useInfiniteQuery } from "@tanstack/react-query";
 import { useState } from "react";
 import getCats from "./utils/getCats";
